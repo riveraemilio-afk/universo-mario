@@ -4,7 +4,7 @@ Este proyecto presenta una estructura territorial ficticia del universo Mario, o
 
 ## Cómo ver el sitio
 
-Puedes acceder al sitio web en: https://tuusuario.github.io/universo-mario
+Puedes acceder al sitio web en: https://github.com/riveraemilio-afk/universo-mario.git
 
 ## Estructura
 
